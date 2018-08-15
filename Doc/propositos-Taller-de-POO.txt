@@ -1,0 +1,16 @@
+objetivo
+"Mantener constante comunicacion con toda la 
+comunidad de maestros, asi como tambien tenerlos informados 
+de los eventos con anticipacion, ademas de proporcionar una 
+guia interactiva donde el usuario logre colocarse en
+la zona o lugar que el desee, en caso de ir solo; en caso contrario 
+proporcionar de manera eficas y rapida una area especifica
+para que en caso de ir acompañado con el simple hecho de
+mencionar el numero de acompañantes colocarlos en algun area
+que sea comodo para todos, todo esto se busca para que el 
+usuario no este atado a una zona cuando ya sea asignada sino que
+tambien se tiene opcion de cambio si aun esta disponible
+ademas con esta pagina tambien se busca asegurar
+la privacidad del usuario, y total discrecion de algun dato privado
+para que asi no se generen inconvenientes a la hora de 
+crear una cuenta para poder registrarse.

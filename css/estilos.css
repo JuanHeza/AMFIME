@@ -1,0 +1,73 @@
+div#sidebar{
+   position:absolute;
+   height:70%;
+   width:17%;
+   left:10px;
+   background:#191919;
+}
+
+div.sidebar{
+   position:absolute;
+   height:70%;
+   width:17%;
+   left:10px;
+   background:#191919;
+}
+
+#Cuerpo{
+	background-color:rgba(191,191,191,0.8);
+	height:100%;
+	width: 56.5%;
+	left: 18.5%;
+	position: absolute;
+}
+div#FecHora{
+   position:absolute;
+   height:24%;
+   width:20%;
+   right:10px;
+   background:#191919;
+   color: #FFF;
+}
+
+#content{
+    background-color: #191919;
+    padding: 10px;
+	overflow: auto;
+}
+
+#content:hover, a:focus {
+    color: #FFF;
+    text-decoration: none;
+}
+
+#content.nav > li > a,
+#content.nav > li > a:link {
+    background-color: #191919;
+    color: #FFF;
+}
+
+#content.nav > li > a:hover,
+#content.nav > li > a:focus {
+    background-color: #2eb82e;
+}
+
+#content.nav-pills > li.active > a,
+#content.nav-pills > li.active > a:hover,
+#content.nav-pills > li.active > a:focus {
+    color: #FFF;
+    background-color: #2eb82e;
+}
+
+body {
+	background-image: url("Back.jpg");
+    background-repeat: repeat-x;
+	font-family: 'open sans', sans-serif;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.jumbotron-ar {
+	background:transparent;
+	padding: 0;
+}

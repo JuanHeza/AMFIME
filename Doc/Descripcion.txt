@@ -1,0 +1,2 @@
+Consiste en una plataforma virtual la cual facilitara el contacto entre los miembros de la asociación ademas de fomentar a los no asociados la opción de unirse por medio de una galería de sus actividades y una explicación de los beneficios que les traería el unirse a ella.
+A su vez también es una mejora de la plataforma que existe actualmente con el fin de hacer la interfaz mas amigable y sencilla de usar.
